@@ -1,0 +1,8 @@
+timeofday = input("time of day: ")
+occation = input("occation: ")
+print("it was %s before %s" % (timeofday, occation))
+#print("it was", timeofday, "before", occation)
+verb1 = input("verb ending with ing: ")
+animal = input("animal: ")
+print("not a creature was %s not even a %s" % (verb1, animal))
+print("end")

@@ -1,0 +1,6 @@
+print("hello")
+print("Tom")
+print("---------------------------by Tom----------------------------")
+print("                           O")
+print("                          /I\\ ")
+print("                            /\\")
